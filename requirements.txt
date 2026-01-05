@@ -1,0 +1,10 @@
+streamlit>=1.20
+pandas
+numpy
+scikit-learn
+xgboost
+catboost
+joblib
+shap
+lime
+matplotlib
